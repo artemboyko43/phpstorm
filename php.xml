@@ -4,13 +4,14 @@
       <MessDetectorConfiguration />
     </phpmd_settings>
   </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration />
+    </phpcs_settings>
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/local/bin/php" id="b5a67d70-1f0a-405d-91e6-f2a6410d5b3c" name="PHP 5.6" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/Cellar/php56-xdebug/2.5.1/xdebug.so">
-        <configuration_options>
-          <configuration_option name="dxdebug.remote_mode" value="jit" />
-        </configuration_options>
-      </interpreter>
+      <interpreter home="/usr/local/bin/php" id="b5a67d70-1f0a-405d-91e6-f2a6410d5b3c" name="PHP 5.6" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/Cellar/php56-xdebug/2.5.1/xdebug.so" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
