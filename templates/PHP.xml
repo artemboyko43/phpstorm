@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="wt" value="watchdog('debug', '&lt;pre&gt;' . print_r($END$, 1) . '&lt;/pre&gt;');" toReformat="false" toShortenFQNames="true">
+  <template name="wt" value="watchdog('debug', '&lt;pre&gt;' . print_r($END$, 1) . '&lt;/pre&gt;');" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
