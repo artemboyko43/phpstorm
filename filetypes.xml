@@ -3,17 +3,16 @@
     <extensionMap>
       <mapping ext="info" type="Ini" />
       <mapping pattern="Patreon" type="PHP" />
+      <mapping ext="theme" type="PHP" />
       <mapping ext="sites" type="PHP" />
       <mapping ext="profile" type="PHP" />
-      <mapping ext="install" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
-      <mapping ext="theme" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Patreon.php" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
