@@ -9,8 +9,8 @@
       <mapping ext="sites" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping pattern="jjbos_apachesolr_autcomplete_products" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="jjbos_apachesolr_autcomplete_products" type="PLAIN_TEXT" />
       <mapping pattern="VarnishUserFullName" type="PLAIN_TEXT" />
       <mapping pattern="Patreon.php" type="PLAIN_TEXT" />
       <mapping pattern="VarnishUserFullName.php" type="PLAIN_TEXT" />
